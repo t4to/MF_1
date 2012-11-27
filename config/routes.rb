@@ -1,4 +1,6 @@
 MF1::Application.routes.draw do
+  resources :pessoas
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
